@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryaman3007
-- 👀 I’m interested in  Competitive Programming and Web Developement
+- 👀 I’m interested in  Competitive Programming and Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

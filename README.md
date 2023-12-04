@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/21uec005" target="blank"><img src="https://img.shields.io/twitter/follow/21uec005?logo=twitter&style=for-the-badge" alt="21uec005" /></a> </p>
 
-- 🔭 I’m currently working on [Footgen](https://footgen.vercel.app/)
-
 - 🌱 I’m currently learning **React.js, Express.js**
 
-- 💬 Ask me about **DSA, HTML, CSS, Bootstrap, Javascript, ReactJs**
+- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs**
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 

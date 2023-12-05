@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 
-- 📄 Resume [[https://drive.google.com/file/d/19oHe7a7c1V74cmnFQhxNuxbJVEZATn3k/view?usp=sharing](https://drive.google.com/file/d/1GkFEEpUCwSYyf0iyuhllbiTa_54tFHBR/view?usp=sharing)]([https://drive.google.com/file/d/19oHe7a7c1V74cmnFQhxNuxbJVEZATn3k/view?usp=sharing](https://drive.google.com/file/d/1GkFEEpUCwSYyf0iyuhllbiTa_54tFHBR/view?usp=sharing))
+- 📄 Resume [https://drive.google.com/file/d/1GkFEEpUCwSYyf0iyuhllbiTa_54tFHBR/view?usp=sharing](https://drive.google.com/file/d/1GkFEEpUCwSYyf0iyuhllbiTa_54tFHBR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

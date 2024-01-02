@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/itss_aryaman" target="blank"><img src="https://img.shields.io/twitter/follow/21uec005?logo=twitter&style=for-the-badge" alt="21uec005" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Express.js**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs**
+- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, Redux-Toolkit, BaaS Platforms**
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 

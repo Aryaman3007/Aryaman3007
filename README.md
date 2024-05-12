@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/itss_aryaman" target="blank"><img src="https://img.shields.io/twitter/follow/21uec005?logo=twitter&style=for-the-badge" alt="21uec005" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, Redux-Toolkit, BaaS Platforms**
+- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, React-Native, Redux-Toolkit, BaaS Platforms**
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 
-- 📄 [(Resume](https://drive.google.com/file/d/1XxNSJIe4Jr0IWjqB6916uRgKIt-__9cU/view?usp=sharing))
+- 📄 [(Resume](https://drive.google.com/file/d/19Qx7JXyVqVUuU8xZSVRFYBgEIP1obs6P/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/itss_aryaman" target="blank"><img src="https://img.shields.io/twitter/follow/21uec005?logo=twitter&style=for-the-badge" alt="21uec005" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, React-Native, Redux-Toolkit, BaaS Platforms**
+- 💬 Ask me about **DSA, HTML, CSS, Tailwind, Javascript, ReactJs, React-Native, Express.js, MongoDB, Node.js, Figma and SQL**
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 

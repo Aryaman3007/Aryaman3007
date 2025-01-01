@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aryaman3007@gmail.com**
 
-- 📄 [(Resume](https://drive.google.com/file/d/19Qx7JXyVqVUuU8xZSVRFYBgEIP1obs6P/view?usp=drivesdk))
+- 📄 [(Resume]([https://drive.google.com/file/d/19Qx7JXyVqVUuU8xZSVRFYBgEIP1obs6P/view?usp=drivesdk](https://drive.google.com/file/d/1DLJSKhgnHggkLI1rEl0FEv5YrLlP9sIR/view?usp=sharing)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

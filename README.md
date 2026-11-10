@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning to live<br>💬 !(Ask) me about CP and MERN stack<br>⚡ Fun Fact : Backend by day, debugger by night.
+🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning to live<br>💬 !(Ask) me about CP and Backend stuffs<br>⚡ Fun Fact : Backend by day, debugger by night.
 
 
 ## 🌐 Socials:
